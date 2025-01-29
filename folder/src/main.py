@@ -1,1 +1,1 @@
-content
+datetime.datetime.now() >> version.md
