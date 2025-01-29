@@ -1,2 +1,1 @@
-with open("version.md", "w") as file:
-    file.write(f"Last updated: {now}\n")
+/workspace# /bin/python3 /workspace/src/main.py
