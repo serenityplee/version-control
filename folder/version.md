@@ -1,2 +1,1 @@
-time --> src/main.py
-print (time)
+src/main.py
